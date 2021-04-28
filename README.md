@@ -1,7 +1,7 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- eric Jin
+- Eric Jin
 
 ## Part 1:
 
